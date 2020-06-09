@@ -2,8 +2,6 @@ import torch
 from torch.utils.data import DataLoader
 import torch.nn as nn
 import warnings
-import model
-import utils
 import json
 
 # Define basic complex operations on torch.Tensor objects whose last dimension
